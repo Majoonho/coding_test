@@ -28,3 +28,12 @@
 ### baekjoon_2750 번 수 정렬하기 문제
 * check point :
   * 수열 비교할 때는 이중 for문을 사용하여 idx 비교.
+  
+### baekjoon_1427 번 소트인사이드
+* check point :
+  * 이중 for문과 문자슬라이싱을 활용한 문제
+``` for i in range(9,-1,-1):
+     for j in n:
+        if i == int(j):
+           print(i,end='')```
+            
