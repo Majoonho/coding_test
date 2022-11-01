@@ -25,4 +25,6 @@
         else:
             bridge.append(0) ```
             
-  
+### baekjoon_2750 번 수 정렬하기 문제
+* check point :
+  * 수열 비교할 때는 이중 for문을 사용하여 idx 비교.
