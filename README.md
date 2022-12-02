@@ -32,8 +32,14 @@
 ### baekjoon_1427 번 소트인사이드
 * check point :
   * 이중 for문과 문자슬라이싱을 활용한 문제
-``` for i in range(9,-1,-1):
-     for j in n:
-        if i == int(j):
-           print(i,end='')```
+  * ``` for i in range(9,-1,-1):
+           for j in n:
+              if i == int(j):
+                 print(i,end='')```
+           
+### baekjoon_10814 번 나이순정렬
+* check point :
+  * sorted 함수를 활용한 문제
+  * ```sorted(array, key=lambda x : x[0])```
+  * ```sorted(array, key=lambda x : x[0], reverse=True)```
             
