@@ -43,7 +43,7 @@
   * ```sorted(array, key=lambda x : x[0])```
   * ```sorted(array, key=lambda x : x[0], reverse=True)```
 
-### baekjoon_10814 번 나이순정렬
+### baekjoon_7490 번 재귀함수
 * check point :
- * eval() : eval("5"+"5") -> 55 / eval("5+5") -> 10
+  * eval() : eval("5"+"5") -> 55 / eval("5+5") -> 10
             
