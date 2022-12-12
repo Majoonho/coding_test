@@ -42,4 +42,8 @@
   * sorted 함수를 활용한 문제
   * ```sorted(array, key=lambda x : x[0])```
   * ```sorted(array, key=lambda x : x[0], reverse=True)```
+
+### baekjoon_10814 번 나이순정렬
+* check point :
+ * eval() : eval("5"+"5") -> 55 / eval("5+5") -> 10
             
